@@ -2,9 +2,7 @@
 
 [English](README.md)
 
-## 网址及演示
-
-https://dber.tech
+## 演示
 
 ![Demo Gif](./dber.gif)
 
