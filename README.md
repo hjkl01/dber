@@ -4,8 +4,6 @@
 
 ## Website and Demo
 
-https://dber.tech
-
 ![Demo Gif](./dber.gif)
 
 ## Features
